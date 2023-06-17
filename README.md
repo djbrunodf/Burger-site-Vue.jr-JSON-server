@@ -1,4 +1,4 @@
-É meu primeiro site usando Vue.js com JSON server.
+Primeiro site usando Vue.js com JSON server.
 
 No site o cliente pode escolher opções de ingredientes para criar seu hambúrguer, o hamburguer chega nos pedidos onde se pode trocar o andamento dos pedidos para "Em Produção", "Finalizado", etc.
 
