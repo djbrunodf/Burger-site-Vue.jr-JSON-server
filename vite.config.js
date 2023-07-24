@@ -5,7 +5,7 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/Burger-site-Vue.jr-JSON-server/',
+  base: '/Burger/',
   plugins: [vue()],
   resolve: {
     alias: {
